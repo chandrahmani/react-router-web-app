@@ -1,0 +1,14 @@
+button{
+    margin: 1rem;
+    font-size: 16px;
+}
+
+.dlt{
+    background-color: #e23a3a;
+    color: white;
+}
+
+.edit{
+    background-color: #37c537;
+    color: #fff;
+}
